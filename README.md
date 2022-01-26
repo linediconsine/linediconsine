@@ -1,6 +1,33 @@
-### Hi there 👋
+# Hi, I'm Marco 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine)](https://github.com/anuraghazra/github-readme-stats)
+As a Developer/Teach Lead. I'm passionate about front-end technologies, and machine learning. I share my love for technology through my post on [Medium](https://medium.com/@marco.amato)  and contributing multiple projects in the open-source community.
+
+
+### 👨🏻‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/GO-239120?style=for-the-badge&logo=go&logoColor=white" />
+</p>
+
+### 🐱‍💻 Framework and Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/gatsby-000000?style=for-the-badge&logo=gatsby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-FDFDFD?style=for-the-badge&logo=jupyter&logoColor=blue" />
+  <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastAPI&logoColor=61DAFB" />
+</p>
+
+
+[![Marco Amato's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine)]()
 
 
 <!--
