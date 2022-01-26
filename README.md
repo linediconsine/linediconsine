@@ -1,6 +1,6 @@
 # Hi, I'm Marco 👋
 
-As a Developer/Teach Lead. I'm passionate about front-end technologies, and machine learning. I share my love for technology through my post on [Medium](https://medium.com/@marco.amato)  and contributing multiple projects in the open-source community.
+As a Developer/Teach Lead. I'm passionate about front-end technologies, and machine learning. I share my love for technology through my post on [medium](https://medium.com/@marco.amato)  and contributing multiple projects in the open-source community.
 
 
 ### 👨🏻‍💻 Programming Languages
