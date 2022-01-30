@@ -23,6 +23,7 @@ As a Developer/Teach Lead. I'm passionate about front-end technologies, and mach
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-20232A?style=for-the-badge&logo=fastAPI&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-5E5C5C?style=for-the-badge&logo=Flask&logoColor=61DAFB" />
 </p>
 
 
