@@ -28,11 +28,12 @@ As a Developer/Teach Lead. I'm passionate about front-end technologies, and mach
 
 
 ### 🔭 Last projects I was involved are :
+- [nodejs-typescript-template](https://github.com/linediconsine/nodejs-typescript-template) - A template for develop Typescript on node, with TDD setup ready to go!
 - [Polygo](https://github.com/SeanJxie/polygo) - A collection of tools that make working with polynomials easy in Go.
 - [Tabae](https://github.com/linediconsine/Tabae) - A TTS Web voice dashboard
 
 
-[![Marco Amato's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine)]()
+[![Marco Amato's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine)](https://github.com/linediconsine)
 
 
 <!--
