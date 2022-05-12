@@ -33,7 +33,7 @@ As a Developer/Teach Lead. I'm passionate about front-end technologies, and mach
 - [Tabae](https://github.com/linediconsine/Tabae) - A TTS Web voice dashboard
 
 
-[![Marco Amato's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine)](https://github.com/linediconsine)
+[![Marco Amato's GitHub stats](https://github-readme-stats.vercel.app/api?username=linediconsine&count_private=true)](https://github.com/linediconsine)
 
 
 <!--
