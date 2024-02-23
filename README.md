@@ -18,6 +18,7 @@ As a Developer/Teach Lead. I'm passionate about front-end technologies, and mach
 ### 🐱‍💻 Framework and Libraries
 
 <p align="left">
+  <img src="https://img.shields.io/badge/VueJS-239120?style=for-the-badge" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=white" />
